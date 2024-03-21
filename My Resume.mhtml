@@ -1,0 +1,140 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Ayan/Desktop/My%20Resumecss.html
+Subject: My Resume
+Date: Thu, 21 Mar 2024 04:51:21 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sg9WfDMV05FaZKo4jnxzXSBuUF6nMdhR4YXdG7edFO----"
+
+
+------MultipartBoundary--sg9WfDMV05FaZKo4jnxzXSBuUF6nMdhR4YXdG7edFO----
+Content-Type: text/html
+Content-ID: <frame-98D0F897D975985407745711D30D7A15@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Ayan/Desktop/My%20Resumecss.html
+
+<!DOCTYPE html><!-- saved from url=3D(0069)https://resume002.w3spaces.com/s=
+aved-from-Tryit-2024-03-20-gyl1a.html --><html lang=3D"en"><head><meta http=
+-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D=
+"stylesheet" type=3D"text/css" href=3D"cid:css-558138e6-a09c-4995-b183-78ea=
+521c9302@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>My Resume</title>
+ =20
+</head>
+<body>
+  <div class=3D"header">
+    <h1>AYAN CHAKRABARTY</h1>
+    <p>Advanced Associate Software Engineer</p>
+  </div>
+
+  <div class=3D"container">
+    <div class=3D"card" style=3D"background: linear-gradient(to bottom righ=
+t, var(--primary-color-2), var(--primary-color-3));">
+      <h2>Contact Information</h2>
+      <div class=3D"section-content">
+        <p>Email: ayan.chakrabarty@accenture.com</p>
+        <p>Phone: 8250510249</p>
+        <p>https://www.linkedin.com/feed/</p>
+      </div>
+    </div>
+
+    <div class=3D"card" style=3D"background: linear-gradient(to bottom righ=
+t, var(--primary-color-3), var(--primary-color-4));">
+      <h2>Education</h2>
+      <div class=3D"section-content">
+        <p>B.Tech in Electronics and Communications Engineering</p>
+        <p>Techno India-2022 passout</p>
+      </div>
+    </div>
+
+    <div class=3D"card" style=3D"background: linear-gradient(to bottom righ=
+t, var(--primary-color-4), var(--primary-color-5));">
+      <h2>Experience</h2>
+      <div class=3D"section-content">
+        <p>Web Developer Intern - Cyberdolphins, Nov2020-Feb2021</p>
+        <p>Advanced App Engineering Associate - Accenture, Jan2023-Present<=
+/p>
+      =20
+      </div>
+    </div>
+
+    <div class=3D"card" style=3D"background: linear-gradient(to bottom righ=
+t, var(--primary-color-5), var(--primary-color-1));">
+      <h2>Skills</h2>
+      <div class=3D"section-content skills">
+        <ul>
+          <li>HTML/CSS</li>
+          <li>JAVASCRIPT</li>
+          <li>PYTHON</li>
+          <li>DATA STRUCTURES and ALGORITHMS</li>
+          <li>DOTNET FULLSTACK</li>
+          <li>SALESFORCE DEVELOPER</li>
+          <li>SALESFORCE ADMIN</li>
+          <li>AUTOMATION TESTING USING ACCELQ</li>
+          <li>MANUAL TESTING USING JIRA</li>
+          <li>MySQL</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--sg9WfDMV05FaZKo4jnxzXSBuUF6nMdhR4YXdG7edFO----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-558138e6-a09c-4995-b183-78ea521c9302@mhtml.blink
+
+@charset "utf-8";
+
+:root { --primary-color-1: #007bff; --primary-color-2: #28a745; --primary-c=
+olor-3: #dc3545; --primary-color-4: #ffc107; --primary-color-5: #17a2b8; --=
+secondary-color: #f2f2f2; --text-color: #333; }
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; margin=
+: 0px; padding: 20px; background-color: var(--secondary-color); color: var(=
+--text-color); display: flex; flex-direction: column; align-items: center; =
+min-height: 100vh; }
+
+.container { display: flex; flex-wrap: wrap; justify-content: center; gap: =
+20px; }
+
+.card { width: 300px; padding: 20px; border-radius: 10px; box-shadow: rgba(=
+0, 0, 0, 0.1) 0px 4px 8px; background: linear-gradient(to bottom right, var=
+(--primary-color-1), var(--primary-color-2)); color: rgb(255, 255, 255); tr=
+ansition: transform 0.3s ease 0s, box-shadow 0.3s ease 0s; display: flex; f=
+lex-direction: column; align-items: center; }
+
+.card:hover { transform: translateY(-5px); box-shadow: rgba(0, 0, 0, 0.2) 0=
+px 8px 16px; }
+
+.header { background-color: var(--primary-color-1); text-align: center; pad=
+ding: 20px; border-radius: 10px; margin-bottom: 20px; font-size: 1.5rem; te=
+xt-shadow: rgba(0, 0, 0, 0.2) 2px 2px 4px; }
+
+h1, h2 { margin: 0px; font-weight: normal; }
+
+h2 { margin-bottom: 10px; }
+
+.section-content p { margin: 5px 0px; }
+
+.skills ul { list-style-type: none; padding: 0px; }
+
+.skills li { margin-bottom: 5px; }
+
+@media screen and (max-width: 600px) {
+  .card { width: 90%; }
+}
+------MultipartBoundary--sg9WfDMV05FaZKo4jnxzXSBuUF6nMdhR4YXdG7edFO------
